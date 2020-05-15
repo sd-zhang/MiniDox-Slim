@@ -1,5 +1,7 @@
 # MiniDox-Slim
 
+![](https://imgur.com/a/2CK0vKb)
+
 Repository contains Eagle and STL files for MiniDox-Slim.
 
 Original MiniDox is created by u/That-Canadian on reddit, and can be found here:

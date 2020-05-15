@@ -1,6 +1,6 @@
 # MiniDox-Slim
 
-![](https://imgur.com/a/2CK0vKb)
+![](https://i.imgur.com/zRuFEFA.jpg)
 
 Repository contains Eagle and STL files for MiniDox-Slim.
 
